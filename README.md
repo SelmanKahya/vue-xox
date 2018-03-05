@@ -2,20 +2,20 @@
 
 > an incredible game
 
-## Build Setup
+## Calistirmak icin:
 
 ``` bash
-# install dependencies
+# kodu cek
+git clone git@github.com:Selmanh/vue-xox.git
+
+# gerekli kutuphaneleri yukle
 npm install
 
-# serve with hot reload at localhost:8080
+# hot reload ozelligiyle serveri baslat
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+# tarayicini ac ve `localhost:8080` adresine git
 ```
 
+### Daha fazla detay icin Vue.js dokumantasyonu:
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
